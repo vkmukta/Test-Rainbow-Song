@@ -3,10 +3,11 @@ pushed from the local system
 
 Now editing this file from Github
 so topics civered in video 6
-git command tells you if git is installed or not
-git clone <url> allows you to copy a repository from server on to your local system
-git status shows you what modifications are being made rn
-git commit allows you to save those changes and generates a unique hash code
-git push pushes the changes to the server repo
-git remote -v gives a list of all the remotes that are associated with the project
-git log -2 ? not clear yet
+git - command tells you if git is installed or not
+git clone <url> - allows you to copy a repository from server on to your local system
+git status - shows you what modifications are being made rn
+git commit <filename> -m "commit message" - allows you to save those changes and generates a unique hash code
+git push - pushes the changes to the server repo
+git remote -v - gives a list of all the remotes that are associated with the project
+git log -2 - ? not clear yet
+git pull - pull the new changes from the server onto your local systems
